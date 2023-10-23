@@ -1,0 +1,1 @@
+Av å lese README-filen fra klasserommet fant jeg ut litt mer i detalj hva de forskjellige begrepene betydde. Jeg er enda usikker på hvordan man utfører "pull", og hva som er forskjellen på det, push og fetch. 
